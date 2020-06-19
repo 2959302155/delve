@@ -7,8 +7,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/go-delve/delve/pkg/dwarf/frame"
-	"github.com/go-delve/delve/pkg/dwarf/op"
+	"github.com/gadelkareem/delve/pkg/dwarf/frame"
+	"github.com/gadelkareem/delve/pkg/dwarf/op"
 	"golang.org/x/arch/arm64/arm64asm"
 )
 

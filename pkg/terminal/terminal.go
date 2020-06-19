@@ -13,10 +13,10 @@ import (
 
 	"github.com/peterh/liner"
 
-	"github.com/go-delve/delve/pkg/config"
-	"github.com/go-delve/delve/pkg/terminal/starbind"
-	"github.com/go-delve/delve/service"
-	"github.com/go-delve/delve/service/api"
+	"github.com/gadelkareem/delve/pkg/config"
+	"github.com/gadelkareem/delve/pkg/terminal/starbind"
+	"github.com/gadelkareem/delve/service"
+	"github.com/gadelkareem/delve/service/api"
 )
 
 const (

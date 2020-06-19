@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-delve/delve/pkg/proc"
-	protest "github.com/go-delve/delve/pkg/proc/test"
+	"github.com/gadelkareem/delve/pkg/proc"
+	protest "github.com/gadelkareem/delve/pkg/proc/test"
 )
 
 type errIssue419 struct {

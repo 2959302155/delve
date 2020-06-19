@@ -8,8 +8,8 @@ import (
 	"math"
 	"strings"
 
-	"github.com/go-delve/delve/pkg/dwarf/frame"
-	"github.com/go-delve/delve/pkg/dwarf/op"
+	"github.com/gadelkareem/delve/pkg/dwarf/frame"
+	"github.com/gadelkareem/delve/pkg/dwarf/op"
 )
 
 const (

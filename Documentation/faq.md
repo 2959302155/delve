@@ -9,10 +9,10 @@ For example if you are getting the `undefined: ArchInst` error message while com
 
 There is no planned ETA for support of other architectures or operating systems. Bugs tracking requested support are:
 
-- [i386 support](https://github.com/go-delve/delve/issues/20)
-- [ARM support](https://github.com/go-delve/delve/issues/118)
-- [PowerPC support](https://github.com/go-delve/delve/issues/1564)
-- [FreeBSD support](https://github.com/go-delve/delve/issues/213)
+- [i386 support](https://github.com/gadelkareem/delve/issues/20)
+- [ARM support](https://github.com/gadelkareem/delve/issues/118)
+- [PowerPC support](https://github.com/gadelkareem/delve/issues/1564)
+- [FreeBSD support](https://github.com/gadelkareem/delve/issues/213)
 
 #### How do I use Delve with Docker?
 

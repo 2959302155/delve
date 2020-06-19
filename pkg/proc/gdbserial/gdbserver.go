@@ -77,9 +77,9 @@ import (
 
 	"golang.org/x/arch/x86/x86asm"
 
-	"github.com/go-delve/delve/pkg/logflags"
-	"github.com/go-delve/delve/pkg/proc"
-	"github.com/go-delve/delve/pkg/proc/linutil"
+	"github.com/gadelkareem/delve/pkg/logflags"
+	"github.com/gadelkareem/delve/pkg/proc"
+	"github.com/gadelkareem/delve/pkg/proc/linutil"
 	isatty "github.com/mattn/go-isatty"
 )
 
